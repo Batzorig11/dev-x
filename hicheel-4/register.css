@@ -1,0 +1,30 @@
+form {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+h2 {
+  color: green;
+}
+input,
+select {
+  width: 390px;
+  margin: 10px 0px;
+  padding: 5px 0px;
+}
+label {
+  color: grey;
+  font-weight: 600;
+}
+button {
+  color: white;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 10px;
+  width: 390px;
+  padding: 10px;
+  background-color: rgb(0, 205, 0);
+}
